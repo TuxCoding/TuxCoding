@@ -8,10 +8,10 @@ with documentations on how they work to help others moving forward. Give them a 
 
 - 🔭 I’m currently working in my free time on: optimizing renewable with home automation and an OBS Streaming overlay
 - 🌱 I’m currently learning: ⚙️ Rust and 🤖 Coding with AI
-- 💬 Discuss with me about: new technologies for improving renewable energy use in homes (was my bachelor thesis)
+- 💬 Discuss with me about: new technologies for improving renewable energy use in homes (was my bachelor thesis), music interests or gaming
 - 📫 How to reach me: :space_invader: Discord#tuxcoding
 - 📝 Pronouns: he/him ♂️
-- 🗯 Fun fact: 🎖 Casual achievement hunter on [🚂](https://steamcommunity.com/id/games647) and 🐈 cuddler by Night
+- 🗯 Fun fact: :musical_note: Listen to rock, metal and viking music (I know I'm crazy), 🎖 Casual achievement hunter on [🚂](https://steamcommunity.com/id/games647) and 🐈 cuddler by Night
 
 <!-- Coming soon:
 - 📂 Personal dotfiles: [.*](https://github.com/TuxCoding/dotfiles)
